@@ -13,3 +13,4 @@
 * [Rizwan, Syed Fahad](https://github.com/suedfood/Syed_Fahad_Rizwan)
 * [Singh, Aakarsh](https://github.com/AakSin/IntroToIM)
 * [Sun, Sunny](https://github.com/ss14740/Intro)
+* [Al Harmoodi, Hind](https://github.com/hindahhmed/IntroToIM/blob/main/README.md)
